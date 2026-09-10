@@ -1,0 +1,740 @@
+- repo: homebrew
+  srcname: bpftop
+  visiblename: bpftop
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Dynamic real-time view of running eBPF programs
+- repo: kali_rolling
+  subrepo: main
+  srcname: bpftop
+  binnames:
+    - bpftop
+  visiblename: bpftop
+  version: 0.9.0.8.g4c7c8c1
+  origversion: 0.9.0.8.g4c7c8c1-1
+  status: ignored
+  maintainers:
+    - sudipm.mukherjee@gmail.com
+  categories:
+    - misc
+- repo: homebrew
+  srcname: bpftop
+  visiblename: bpftop
+  version: 0.9.0
+  origversion: null
+  status: newest
+  summary: Dynamic real-time view of running eBPF programs
+- repo: alpine_3_21
+  subrepo: community
+  srcname: bpftop
+  binname: bpftop
+  visiblename: bpftop
+  version: 0.5.2
+  origversion: 0.5.2-r0
+  status: outdated
+  summary: Dynamic real-time view of running eBPF programs
+  maintainers:
+    - fossdd@pwned.life
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: bpftop
+  binname: bpftop
+  visiblename: bpftop
+  version: 0.6.0
+  origversion: 0.6.0-r0
+  status: outdated
+  summary: Dynamic real-time view of running eBPF programs
+  maintainers:
+    - fossdd@pwned.life
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: bpftop
+  binname: bpftop
+  visiblename: bpftop
+  version: 0.7.1
+  origversion: 0.7.1-r0
+  status: outdated
+  summary: Dynamic real-time view of running eBPF programs
+  maintainers:
+    - achill@achill.org
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: bpftop
+  binname: bpftop
+  visiblename: bpftop
+  version: 0.8.0
+  origversion: 0.8.0-r1
+  status: outdated
+  summary: Dynamic real-time view of running eBPF programs
+  maintainers:
+    - achill@achill.org
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: bpftop
+  binname: bpftop
+  visiblename: bpftop
+  version: 0.9.0
+  origversion: 0.9.0-r0
+  status: newest
+  summary: Dynamic real-time view of running eBPF programs
+  maintainers:
+    - achill@achill.org
+  licenses:
+    - Apache-2.0
+- repo: arch
+  subrepo: extra
+  srcname: bpftop
+  binname: bpftop
+  visiblename: bpftop
+  version: 0.8.0
+  origversion: 0.8.0-1
+  status: outdated
+  summary: Dynamic real-time view of running eBPF programs
+  licenses:
+    - Apache-2.0
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: bpftop
+  binnames:
+    - bpftop
+  visiblename: bpftop
+  version: 0.5.2.20.gc23a822
+  origversion: 0.5.2.20.gc23a822-2
+  status: outdated
+  maintainers:
+    - sudipm.mukherjee@gmail.com
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: bpftop
+  binnames:
+    - bpftop
+  visiblename: bpftop
+  version: 0.9.0.8.g4c7c8c1
+  origversion: 0.9.0.8.g4c7c8c1-1
+  status: ignored
+  maintainers:
+    - sudipm.mukherjee@gmail.com
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: bpftop
+  binnames:
+    - bpftop
+  visiblename: bpftop
+  version: 0.9.0.9.g5a67ec0
+  origversion: 0.9.0.9.g5a67ec0-1
+  status: ignored
+  maintainers:
+    - sudipm.mukherjee@gmail.com
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: bpftop
+  binnames:
+    - bpftop
+  visiblename: bpftop
+  version: 0.9.0.9.g5a67ec0
+  origversion: 0.9.0.9.g5a67ec0-1
+  status: ignored
+  maintainers:
+    - sudipm.mukherjee@gmail.com
+  categories:
+    - misc
+- repo: epel_9
+  srcname: bpftop
+  binnames:
+    - bpftop
+    - bpftop-debuginfo
+    - bpftop-debugsource
+  visiblename: bpftop
+  version: 0.9.0
+  origversion: 0.9.0-3.el9
+  status: newest
+  summary: Dynamic real-time view of running eBPF programs
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: bpftop
+  binnames:
+    - bpftop
+  visiblename: bpftop
+  version: 0.5.2.20.gc23a822
+  origversion: 0.5.2.20.gc23a822-2
+  status: outdated
+  maintainers:
+    - sudipm.mukherjee@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: bpftop
+  binnames:
+    - bpftop
+  visiblename: bpftop
+  version: 0.7.1.4.gd579e4e
+  origversion: 0.7.1.4.gd579e4e-2
+  status: outdated
+  maintainers:
+    - sudipm.mukherjee@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: bpftop
+  binnames:
+    - bpftop
+  visiblename: bpftop
+  version: 0.9.0.8.g4c7c8c1
+  origversion: 0.9.0.8.g4c7c8c1-1
+  status: ignored
+  maintainers:
+    - sudipm.mukherjee@gmail.com
+  categories:
+    - universe/misc
+- repo: gentoo
+  srcname: dev-util/bpftop
+  visiblename: dev-util/bpftop
+  version: 0.8.0
+  origversion: null
+  status: outdated
+  summary: Dynamic real-time view of running eBPF programs
+  maintainers:
+    - chutzpah@gentoo.org
+  licenses:
+    - Apache-2.0 BSD-2 BSD MIT Unicode-DFS-2016 WTFPL-2 ZLIB || ( Apache-2.0 Boost-1.0 )
+  categories:
+    - dev-util
+- repo: fedora_39
+  subrepo: updates
+  srcname: bpftop
+  binnames:
+    - bpftop
+    - bpftop-debuginfo
+    - bpftop-debugsource
+  visiblename: bpftop
+  version: 0.5.1
+  origversion: 0.5.1-1.fc39
+  status: outdated
+  summary: Dynamic real-time view of running eBPF programs
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: updates
+  srcname: bpftop
+  binnames:
+    - bpftop
+    - bpftop-debuginfo
+    - bpftop-debugsource
+  visiblename: bpftop
+  version: 0.5.1
+  origversion: 0.5.1-8.fc40
+  status: outdated
+  summary: Dynamic real-time view of running eBPF programs
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: release
+  srcname: bpftop
+  binnames:
+    - bpftop
+    - bpftop-debuginfo
+    - bpftop-debugsource
+  visiblename: bpftop
+  version: 0.5.1
+  origversion: 0.5.1-2.fc41
+  status: legacy
+  summary: Dynamic real-time view of running eBPF programs
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: updates
+  srcname: bpftop
+  binnames:
+    - bpftop
+    - bpftop-debuginfo
+    - bpftop-debugsource
+  visiblename: bpftop
+  version: 0.7.1
+  origversion: 0.7.1-1.fc41
+  status: outdated
+  summary: Dynamic real-time view of running eBPF programs
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: updates
+  srcname: bpftop
+  binnames:
+    - bpftop
+    - bpftop-debuginfo
+    - bpftop-debugsource
+  visiblename: bpftop
+  version: 0.9.0
+  origversion: 0.9.0-1.fc42
+  status: newest
+  summary: Dynamic real-time view of running eBPF programs
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: release
+  srcname: bpftop
+  binnames:
+    - bpftop
+    - bpftop-debuginfo
+    - bpftop-debugsource
+  visiblename: bpftop
+  version: 0.5.1
+  origversion: 0.5.1-8.fc42
+  status: legacy
+  summary: Dynamic real-time view of running eBPF programs
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: bpftop
+  binnames:
+    - bpftop
+    - bpftop-debuginfo
+    - bpftop-debugsource
+  visiblename: bpftop
+  version: 0.9.0
+  origversion: 0.9.0-3.fc43
+  status: newest
+  summary: Dynamic real-time view of running eBPF programs
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: release
+  srcname: bpftop
+  binnames:
+    - bpftop
+    - bpftop-debuginfo
+    - bpftop-debugsource
+  visiblename: bpftop
+  version: 0.7.1
+  origversion: 0.7.1-1.fc43
+  status: legacy
+  summary: Dynamic real-time view of running eBPF programs
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: release
+  srcname: bpftop
+  binnames:
+    - bpftop
+    - bpftop-debuginfo
+    - bpftop-debugsource
+  visiblename: bpftop
+  version: 0.7.1
+  origversion: 0.7.1-4.fc44
+  status: legacy
+  summary: Dynamic real-time view of running eBPF programs
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: updates
+  srcname: bpftop
+  binnames:
+    - bpftop
+    - bpftop-debuginfo
+    - bpftop-debugsource
+  visiblename: bpftop
+  version: 0.9.0
+  origversion: 0.9.0-3.fc44
+  status: newest
+  summary: Dynamic real-time view of running eBPF programs
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_rawhide
+  subrepo: development
+  srcname: bpftop
+  binnames:
+    - bpftop
+    - bpftop-debuginfo
+    - bpftop-debugsource
+  visiblename: bpftop
+  version: 0.9.0
+  origversion: 0.9.0-4.fc45
+  status: newest
+  summary: Dynamic real-time view of running eBPF programs
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: gentoo
+  srcname: dev-util/bpftop
+  visiblename: dev-util/bpftop
+  version: 0.7.1
+  origversion: null
+  status: legacy
+  summary: Dynamic real-time view of running eBPF programs
+  maintainers:
+    - chutzpah@gentoo.org
+  licenses:
+    - Apache-2.0 BSD-2 BSD MIT Unicode-DFS-2016 || ( Apache-2.0 Boost-1.0 )
+  categories:
+    - dev-util
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: bpftop
+  binname: bpftop
+  visiblename: bpftop
+  version: 0.9.0
+  origversion: 0.9.0_1
+  status: newest
+  summary: Dynamic real-time view of running eBPF programs
+  maintainers:
+    - leah@vuxu.org
+  licenses:
+    - Apache-2.0
+- repo: liguros_stable
+  srcname: dev-util/bpftop
+  visiblename: dev-util/bpftop
+  version: 0.2.3
+  origversion: 0.2.3-r1
+  status: legacy
+  summary: Process monitor for BPF programs
+  maintainers:
+    - chutzpah@gentoo.org
+  licenses:
+    - Apache-2.0 BSD-2 BSD MIT Unicode-DFS-2016 || ( Apache-2.0 Boost-1.0 )
+  categories:
+    - dev-util
+- repo: liguros_stable
+  srcname: dev-util/bpftop
+  visiblename: dev-util/bpftop
+  version: 0.7.0
+  origversion: null
+  status: outdated
+  summary: Dynamic real-time view of running eBPF programs
+  maintainers:
+    - chutzpah@gentoo.org
+  licenses:
+    - Apache-2.0 BSD-2 BSD MIT Unicode-DFS-2016 || ( Apache-2.0 Boost-1.0 )
+  categories:
+    - dev-util
+- repo: liguros_stable
+  srcname: dev-util/bpftop
+  visiblename: dev-util/bpftop
+  version: 0.6.0
+  origversion: null
+  status: legacy
+  summary: Process monitor for BPF programs
+  maintainers:
+    - chutzpah@gentoo.org
+  licenses:
+    - Apache-2.0 BSD-2 BSD MIT Unicode-DFS-2016 || ( Apache-2.0 Boost-1.0 )
+  categories:
+    - dev-util
+- repo: liguros_stable
+  srcname: dev-util/bpftop
+  visiblename: dev-util/bpftop
+  version: 0.5.1
+  origversion: 0.5.1-r1
+  status: legacy
+  summary: Process monitor for BPF programs
+  maintainers:
+    - chutzpah@gentoo.org
+  licenses:
+    - Apache-2.0 BSD-2 BSD MIT Unicode-DFS-2016 || ( Apache-2.0 Boost-1.0 )
+  categories:
+    - dev-util
+- repo: liguros_develop
+  srcname: dev-util/bpftop
+  visiblename: dev-util/bpftop
+  version: 0.7.1
+  origversion: null
+  status: legacy
+  summary: Dynamic real-time view of running eBPF programs
+  maintainers:
+    - chutzpah@gentoo.org
+  licenses:
+    - Apache-2.0 BSD-2 BSD MIT Unicode-DFS-2016 || ( Apache-2.0 Boost-1.0 )
+  categories:
+    - dev-util
+- repo: liguros_develop
+  srcname: dev-util/bpftop
+  visiblename: dev-util/bpftop
+  version: 0.8.0
+  origversion: null
+  status: outdated
+  summary: Dynamic real-time view of running eBPF programs
+  maintainers:
+    - chutzpah@gentoo.org
+  licenses:
+    - Apache-2.0 BSD-2 BSD MIT Unicode-DFS-2016 WTFPL-2 ZLIB || ( Apache-2.0 Boost-1.0 )
+  categories:
+    - dev-util
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: bpftop
+  binname: bpftop
+  visiblename: bpftop
+  version: 0.8.0
+  origversion: 0.8.0-1
+  status: outdated
+  summary: Dynamic real-time view of running eBPF programs
+  licenses:
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: bpftop
+  binname: bpftop
+  visiblename: bpftop
+  version: 0.8.0
+  origversion: 0.8.0-1
+  status: outdated
+  summary: Dynamic real-time view of running eBPF programs
+  licenses:
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: bpftop
+  binname: bpftop
+  visiblename: bpftop
+  version: 0.8.0
+  origversion: 0.8.0-1
+  status: outdated
+  summary: Dynamic real-time view of running eBPF programs
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: bpftop
+  visiblename: bpftop
+  version: 0.5.1
+  origversion: null
+  status: outdated
+  summary: A dynamic real-time view of running eBPF programs
+  maintainers:
+    - mail-maintainer@0x4a6f.dev
+    - valentinobocchetti59@gmail.com
+    - falakreyaz@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: bpftop
+  visiblename: bpftop
+  version: 0.5.2
+  origversion: null
+  status: outdated
+  summary: Dynamic real-time view of running eBPF programs
+  maintainers:
+    - mail-maintainer@0x4a6f.dev
+    - valentinobocchetti59@gmail.com
+    - falakreyaz@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: bpftop
+  visiblename: bpftop
+  version: 0.6.0
+  origversion: null
+  status: outdated
+  summary: Dynamic real-time view of running eBPF programs
+  maintainers:
+    - mail-maintainer@0x4a6f.dev
+    - valentinobocchetti59@gmail.com
+    - falakreyaz@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: bpftop
+  visiblename: bpftop
+  version: 0.7.1
+  origversion: null
+  status: outdated
+  summary: Dynamic real-time view of running eBPF programs
+  maintainers:
+    - mail-maintainer@0x4a6f.dev
+    - valentinobocchetti59@gmail.com
+    - falakreyaz@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: bpftop
+  visiblename: bpftop
+  version: 0.9.0
+  origversion: null
+  status: newest
+  summary: Dynamic real-time view of running eBPF programs
+  maintainers:
+    - mail-maintainer@0x4a6f.dev
+    - valentinobocchetti59@gmail.com
+    - falakreyaz@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: bpftop
+  visiblename: bpftop
+  version: 0.9.0
+  origversion: null
+  status: newest
+  summary: Dynamic real-time view of running eBPF programs
+  maintainers:
+    - mail-maintainer@0x4a6f.dev
+    - valentinobocchetti59@gmail.com
+    - falakreyaz@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: bpftop
+  binnames:
+    - bpftop
+    - bpftop-debuginfo
+    - bpftop-debugsource
+  visiblename: bpftop
+  version: 0.7.1
+  origversion: 0.7.1-1.8
+  status: outdated
+  summary: Dynamic real-time view of running eBPF programs
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: parabola
+  subrepo: extra
+  srcname: bpftop
+  binname: bpftop
+  visiblename: bpftop
+  version: 0.8.0
+  origversion: 0.8.0-1
+  status: outdated
+  summary: Dynamic real-time view of running eBPF programs
+  licenses:
+    - Apache-2.0
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: bpftop
+  binnames:
+    - bpftop
+  visiblename: bpftop
+  version: 0.5.2.20.gc23a822
+  origversion: 0.5.2.20.gc23a822-2
+  status: outdated
+  maintainers:
+    - sudipm.mukherjee@gmail.com
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: bpftop
+  binnames:
+    - bpftop
+  visiblename: bpftop
+  version: 0.5.2.20.gc23a822
+  origversion: 0.5.2.20.gc23a822-2
+  status: outdated
+  maintainers:
+    - sudipm.mukherjee@gmail.com
+  categories:
+    - misc
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: bpftop
+  binnames:
+    - bpftop
+  visiblename: bpftop
+  version: 0.5.2.20.gc23a822
+  origversion: 0.5.2.20.gc23a822-2
+  status: outdated
+  maintainers:
+    - sudipm.mukherjee@gmail.com
+  categories:
+    - admin
+- repo: raspbian_stable
+  subrepo: main
+  srcname: bpftop
+  binnames:
+    - bpftop
+  visiblename: bpftop
+  version: 0.5.2.20.gc23a822
+  origversion: 0.5.2.20.gc23a822-2
+  status: outdated
+  maintainers:
+    - sudipm.mukherjee@gmail.com
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: bpftop
+  binnames:
+    - bpftop
+  visiblename: bpftop
+  version: 0.7.1.4.gd579e4e
+  origversion: 0.7.1.4.gd579e4e-3
+  status: outdated
+  maintainers:
+    - sudipm.mukherjee@gmail.com
+  categories:
+    - misc
+- repo: stalix
+  srcname: bin/bpf/top
+  binname: bin/bpf/top
+  visiblename: bin/bpf/top
+  version: 0.9.0
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: stalix_dev
+  srcname: bin/bpf/top
+  binname: bin/bpf/top
+  visiblename: bin/bpf/top
+  version: 0.9.0
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: bpftop
+  binnames:
+    - bpftop
+  visiblename: bpftop
+  version: 0.5.2.20.gc23a822
+  origversion: 0.5.2.20.gc23a822-2
+  status: outdated
+  maintainers:
+    - sudipm.mukherjee@gmail.com
+  categories:
+    - universe/misc

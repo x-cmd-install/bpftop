@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.9.0"
   latestRelease: "v0.9.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:06:43Z
+  collectedAt: 2026-09-10T21:27:18Z
 timeline:
   created: 2024-02-10
   lastCommit: 2026-07-29
@@ -87,7 +87,7 @@ total:
   commit: 277
 ---
 path: /home/runner/.x-repo/github.com/Netflix/bpftop
-collectedAt: 2026-09-10T18:06:46Z
+collectedAt: 2026-09-10T21:27:20Z
 loc:
   CHeader:
     code: 97464
