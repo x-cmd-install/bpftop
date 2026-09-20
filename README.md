@@ -4,7 +4,7 @@
 
 bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 
-![bpftop](https://repo.x-cmd.io/bpftop.svg)
+[![x-cmd/install — bpftop Code Quality Monitoring Repo Card](https://repo.x-cmd.io/bpftop.svg)](https://x-cmd.com/install/bpftop)
 
 ## Install
 
@@ -48,12 +48,12 @@ Total: **99,424** lines of code across **13** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-28 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-30 | 5 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for bpftop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:17:37Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:15:30Z._
