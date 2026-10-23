@@ -38,7 +38,7 @@ x install bpftop
 
 ## 流行度
 
-- **Star**: 2,709 · **Fork**: 130 · **开放 issue**: 30 · **贡献者**: 17
+- **Star**: 2,710 · **Fork**: 130 · **开放 issue**: 30 · **贡献者**: 17
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install bpftop
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-27 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-01 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-28 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-02 | 5 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -61,6 +61,24 @@ x install bpftop
 |------|-----:|----------|
 | [bpftop-aarch64-unknown-linux-gnu](https://github.com/Netflix/bpftop/releases/download/v0.9.0/bpftop-aarch64-unknown-linux-gnu) | 2.5 MiB | `native/linux/arm64/glibc` |
 | [bpftop-x86_64-unknown-linux-gnu](https://github.com/Netflix/bpftop/releases/download/v0.9.0/bpftop-x86_64-unknown-linux-gnu) | 2.5 MiB | `native/linux/x64/glibc` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/bpftop) 上共有 **58** 个发行版报告此项目。**13** 个 ✅ 已是最新上游版本，**29** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `0.9.0.9.g5a67ec0` | ignored |
+| Debian 14 | `0.9.0.9.g5a67ec0` | ignored |
+| Debian 13 | `0.5.2.20.gc23a822` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.7.1.4.gd579e4e` | ⚠️ outdated |
+| Arch | `0.8.0` | ⚠️ outdated |
+| Homebrew | `0.9.0` | ✅ latest |
+| Fedora rawhide | `0.9.0` | ✅ latest |
+| Nix unstable | `0.9.0` | ✅ latest |
+| Void | `0.9.0` | ✅ latest |
+| Alpine edge | `0.9.0` | ✅ latest |
+| openSUSE Tumbleweed | `0.7.1` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -71,4 +89,4 @@ bpftop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:46:20Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:48:49Z._
