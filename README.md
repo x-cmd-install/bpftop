@@ -32,8 +32,8 @@ Total: **99,424** lines of code across **13** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.9.0` (2026-05-02)
-- **Last commit**: 2026-07-29
+- **Latest**: `v0.9.1` (2026-11-04)
+- **Last commit**: 2026-11-04
 - **Assets in release**: 2
 
 ## Popularity
@@ -42,42 +42,42 @@ Total: **99,424** lines of code across **13** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 164 · **Open PRs**: 1 · **Closed issues**: 26 · **Open issues**: 4 · **Commits**: 277
+- **Releases**: 18 · **Merged PRs**: 166 · **Open PRs**: 1 · **Closed issues**: 26 · **Open issues**: 4 · **Commits**: 279
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-09 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-14 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-06 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-06 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-07 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-09 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-10 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-15 | 6 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [bpftop-aarch64-unknown-linux-gnu](https://github.com/Netflix/bpftop/releases/download/v0.9.0/bpftop-aarch64-unknown-linux-gnu) | 2.5 MiB | `native/linux/arm64/glibc` |
-| [bpftop-x86_64-unknown-linux-gnu](https://github.com/Netflix/bpftop/releases/download/v0.9.0/bpftop-x86_64-unknown-linux-gnu) | 2.5 MiB | `native/linux/x64/glibc` |
+| [bpftop-aarch64-unknown-linux-gnu](https://github.com/Netflix/bpftop/releases/download/v0.9.1/bpftop-aarch64-unknown-linux-gnu) | 2.6 MiB | `native/linux/arm64/glibc` |
+| [bpftop-x86_64-unknown-linux-gnu](https://github.com/Netflix/bpftop/releases/download/v0.9.1/bpftop-x86_64-unknown-linux-gnu) | 2.6 MiB | `native/linux/x64/glibc` |
 
 ## Distribution status
 
-Reported by **56** distros on [repology.org](https://repology.org/project/bpftop). **13** are ✅ on the latest upstream release, **27** are ⚠️ on an older version.
+Reported by **58** distros on [repology.org](https://repology.org/project/bpftop). **5** are ✅ on the latest upstream release, **41** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `0.9.0.9.g5a67ec0` | ignored |
-| Debian 14 | `0.9.0.9.g5a67ec0` | ignored |
+| Debian unstable | `0.9.0.9.g5a67ec0` | ⚠️ outdated |
+| Debian 14 | `0.9.0.9.g5a67ec0` | ⚠️ outdated |
 | Debian 13 | `0.5.2.20.gc23a822` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.7.1.4.gd579e4e` | ⚠️ outdated |
 | Arch | `0.8.0` | ⚠️ outdated |
-| Homebrew | `0.9.0` | ✅ latest |
-| Fedora rawhide | `0.9.0` | ✅ latest |
-| Nix unstable | `0.9.0` | ✅ latest |
-| Void | `0.9.0` | ✅ latest |
-| Alpine edge | `0.9.0` | ✅ latest |
+| Homebrew | `0.9.1` | ✅ latest |
+| Fedora rawhide | `0.9.1` | ✅ latest |
+| Nix unstable | `0.9.0` | ⚠️ outdated |
+| Void | `0.9.0` | ⚠️ outdated |
+| Alpine edge | `0.9.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.7.1` | ⚠️ outdated |
 
 ## Improve this data
@@ -89,4 +89,4 @@ Install metadata for bpftop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:34:17Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:55:53Z._
