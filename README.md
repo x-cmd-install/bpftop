@@ -38,7 +38,7 @@ Total: **99,424** lines of code across **13** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,710 · **Forks**: 130 · **Open issues**: 30 · **Contributors**: 17
+- **Stars**: 2,710 · **Forks**: 131 · **Open issues**: 30 · **Contributors**: 17
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **99,424** lines of code across **13** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-06 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-07 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-09 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-10 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-15 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-07 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-07 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-08 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-10 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-11 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-16 | 6 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -64,7 +64,7 @@ Total: **99,424** lines of code across **13** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **58** distros on [repology.org](https://repology.org/project/bpftop). **5** are ✅ on the latest upstream release, **41** are ⚠️ on an older version.
+Reported by **58** distros on [repology.org](https://repology.org/project/bpftop). **6** are ✅ on the latest upstream release, **40** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -89,4 +89,4 @@ Install metadata for bpftop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:55:53Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:56:30Z._
