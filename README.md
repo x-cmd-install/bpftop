@@ -38,7 +38,7 @@ Total: **99,424** lines of code across **13** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,710 · **Forks**: 131 · **Open issues**: 30 · **Contributors**: 17
+- **Stars**: 2,711 · **Forks**: 131 · **Open issues**: 30 · **Contributors**: 17
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **99,424** lines of code across **13** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-10 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-11 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-13 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-14 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-19 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-11 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-11 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-12 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-14 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-15 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-20 | 6 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -64,7 +64,7 @@ Total: **99,424** lines of code across **13** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **62** distros on [repology.org](https://repology.org/project/bpftop). **12** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
+Reported by **62** distros on [repology.org](https://repology.org/project/bpftop). **13** are ✅ on the latest upstream release, **37** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -78,7 +78,7 @@ Reported by **62** distros on [repology.org](https://repology.org/project/bpftop
 | Nix unstable | `0.9.1` | ✅ latest |
 | Void | `0.9.0` | ⚠️ outdated |
 | Alpine edge | `0.9.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.7.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.9.1` | ✅ latest |
 
 ## Improve this data
 
@@ -89,4 +89,4 @@ Install metadata for bpftop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:43:34Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:42:53Z._
