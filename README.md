@@ -48,12 +48,12 @@ Total: **99,424** lines of code across **13** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-14 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-15 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-17 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-18 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-23 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-15 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-15 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-16 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-18 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-19 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-24 | 6 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -64,12 +64,11 @@ Total: **99,424** lines of code across **13** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **63** distros on [repology.org](https://repology.org/project/bpftop). **17** are ✅ on the latest upstream release, **34** are ⚠️ on an older version.
+Reported by **62** distros on [repology.org](https://repology.org/project/bpftop). **17** are ✅ on the latest upstream release, **33** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `0.9.0.9.g5a67ec0` | ⚠️ outdated |
-| Debian 14 | `0.9.0.9.g5a67ec0` | ⚠️ outdated |
 | Debian 13 | `0.5.2.20.gc23a822` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.7.1.4.gd579e4e` | ⚠️ outdated |
 | Arch | `0.9.1` | ✅ latest |
@@ -89,4 +88,4 @@ Install metadata for bpftop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:07:43Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T08:04:29Z._
